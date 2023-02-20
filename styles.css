@@ -17,7 +17,7 @@ grid-template-columns: 300px 700px;
 }
 .right-section{
     background-color: green;
-    rid-column:span 1;
+    grid-column: span 1;
 }
 .left-content{
     padding: 1rem;
