@@ -13,11 +13,11 @@ grid-template-columns: 300px 700px;
 }
 .left-section{
     background-color: grey;
-    grid-column: 1/2;
+    grid-column: span 1/2;
 }
 .right-section{
     background-color: green;
-    rid-column: 2/3;
+    rid-column:span 1;
 }
 .left-content{
     padding: 1rem;
