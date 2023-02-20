@@ -9,7 +9,7 @@ min-height: 1000px;
 width: 90%;
 display: grid;
 grid-template-columns: 300px 700px;  
-margin: auto auto;  
+/* margin: auto auto;   */
 }
 .left-section{
     background-color: grey;
@@ -108,6 +108,9 @@ table thead th{
 table tbody td{
     text-align: left;
     padding: 0 1rem;
+}
+table{
+    margin-left: 0;
 }
 
 @media screen and (max-width: 630px){
