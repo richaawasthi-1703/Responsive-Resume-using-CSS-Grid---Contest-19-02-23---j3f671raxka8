@@ -13,7 +13,7 @@ grid-template-columns: 300px 700px;
 }
 .left-section{
     background-color: grey;
-    grid-column: span 1/2;
+    grid-column: span 1;
 }
 .right-section{
     background-color: green;
